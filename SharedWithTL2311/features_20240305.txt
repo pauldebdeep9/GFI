@@ -1,0 +1,6 @@
+tsf_lr_pos_2_china_semiconductor_equipment_said ---- -0.5151093992048187
+neu_12_gas_energy_said_eu ---- -0.033234678118180316
+tsf_lr_neg_0_year_quarter_index_month ---- 0.20400184734738697
+neg_6_solar_inverter_energy_pv ---- 0.7432239284713777
+neg_5_market_machine_global_cnc ---- -0.6356761225611774
+neu_10_wind_hydrogen_siemens_energy ---- 0.23994764713976344

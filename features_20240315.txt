@@ -1,0 +1,10 @@
+Topic-wise_Values_4_robots_robotics_robot_market ---- -0.7650004320192023
+Topic_probability_2_china_semiconductor_equipment_said ---- 0.03961496694216041
+tsf_lr_neu_2_china_semiconductor_equipment_said ---- -0.38013499403506507
+neg_6_solar_inverter_energy_pv ---- 0.42369639434116324
+Topic-wise_Values_1_market_automation_test_global ---- 0.23761569180952546
+Topic_probability_7_market_medical_global_devices ---- -1.0463406699380013
+Topic-wise_Values_7_market_medical_global_devices ---- 0.1485269340941659
+pos_5_market_machine_global_cnc ---- -0.0021853988616555853
+Topic-wise_Values_8_rockwell_new_said_data ---- 0.7946484059157635
+tsf_lr_neu_11_market_vision_global_sensors ---- 0.5466363500993676

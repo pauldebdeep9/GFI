@@ -1,0 +1,2 @@
+tsf_lr_pos_2_china_semiconductor_equipment_said ---- -1.3872999496678917
+neu_12_gas_energy_said_eu ---- -0.4478406287132618
